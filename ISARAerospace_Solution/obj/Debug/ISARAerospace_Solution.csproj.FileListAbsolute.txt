@@ -1,0 +1,9 @@
+C:\Users\I518401\Documents\Visual Studio 2019\ISARAerospace_Solution\ISARAerospace_Solution\obj\Debug\ISARAerospace_Solution.Form1.resources
+C:\Users\I518401\Documents\Visual Studio 2019\ISARAerospace_Solution\ISARAerospace_Solution\obj\Debug\ISARAerospace_Solution.Properties.Resources.resources
+C:\Users\I518401\Documents\Visual Studio 2019\ISARAerospace_Solution\ISARAerospace_Solution\obj\Debug\ISARAerospace_Solution.csproj.GenerateResource.cache
+C:\Users\I518401\Documents\Visual Studio 2019\ISARAerospace_Solution\ISARAerospace_Solution\obj\Debug\ISARAerospace_Solution.csproj.CoreCompileInputs.cache
+C:\Users\I518401\Documents\Visual Studio 2019\ISARAerospace_Solution\ISARAerospace_Solution\bin\Debug\ISARAerospace_Solution.exe.config
+C:\Users\I518401\Documents\Visual Studio 2019\ISARAerospace_Solution\ISARAerospace_Solution\bin\Debug\ISARAerospace_Solution.exe
+C:\Users\I518401\Documents\Visual Studio 2019\ISARAerospace_Solution\ISARAerospace_Solution\bin\Debug\ISARAerospace_Solution.pdb
+C:\Users\I518401\Documents\Visual Studio 2019\ISARAerospace_Solution\ISARAerospace_Solution\obj\Debug\ISARAerospace_Solution.exe
+C:\Users\I518401\Documents\Visual Studio 2019\ISARAerospace_Solution\ISARAerospace_Solution\obj\Debug\ISARAerospace_Solution.pdb
